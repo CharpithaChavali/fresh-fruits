@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Fruit_store>
+    <Fruit>
+        <name>Apple</name>
+        <price>2.99</price>
+        <description>
+            Crisp and juicy apple, perfect for snacking.
+        </description>
+    </Fruit>
+    <Fruit>
+        <name>Banana</name>
+        <price>0.49</price>
+        <description>
+            Nutrient-rich banana, a quick and healthy snack option.
+        </description>
+    </Fruit>
+    <Fruit>
+        <name>Orange</name>
+        <price>1.25</price>
+        <description>
+            Zesty and sweet orange, packed with vitamin C.
+        </description>
+    </Fruit>
+    <Fruit>
+        <name>Grapes</name>
+        <price>3.75</price>
+        <description>
+            Plump and juicy grapes, available in various varieties.
+        </description>
+    </Fruit>
+</Fruit_store>
